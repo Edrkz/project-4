@@ -1,0 +1,25 @@
+html,
+body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+#map {
+  height: 65%;
+}
+#questions{
+  color :white;
+  font-size: 20px;
+  font-weight: bold;
+  text-align: center;
+  background-image: url(./images/back.jpg);
+  background-size: cover;
+  width: 50%;
+  margin: auto;
+  border-radius: 40%;
+  border: solid 5px black;
+}
+
+
+
